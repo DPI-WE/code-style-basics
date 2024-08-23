@@ -170,7 +170,7 @@ To ensure that your documents are formatted automatically on save, add the follo
 {
   "editor.formatOnSave": true,
   "[ruby]": {
-    "editor.defaultFormatter": "rufo" // or "ruby-rubocop"
+    "editor.defaultFormatter": "rufo"
   },
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
