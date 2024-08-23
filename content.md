@@ -227,5 +227,7 @@ Consistency in your coding style makes your code easier to read and maintain. Wh
 ## Conclusion
 This lesson provides the foundation for writing clean and consistent code in Ruby, HTML, ERB, and other languages. By adhering to these guidelines and utilizing tools like VSCode’s "Format Document" feature, you'll improve your coding skills and ensure that your code is easy to read, maintain, and share with others.
 
-Approximately how long (in minutes) did this lesson take you to complete?
+---
+
+- Approximately how long (in minutes) did this lesson take you to complete?
 {: .free_text_number #time_taken title="Time taken" points="1" answer="any" }
