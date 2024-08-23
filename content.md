@@ -126,7 +126,7 @@ HTML typically uses 2 or 4 spaces for indentation. Choose one and stick to it co
 </div>
 ```
 
-### ERB
+### ERB (Embedded Ruby)
 For ERB files, indentation should reflect both the HTML structure and the Ruby code embedded within it.
 
 ```erb
