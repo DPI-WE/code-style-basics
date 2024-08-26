@@ -1,4 +1,4 @@
-# Code Style Basics
+# Ruby Style Basics
 
 ## Introduction
 Writing clean and consistent code is crucial for software development. Not only does it make your code easier to read and maintain, but it also helps you work effectively with others. In this lesson, you'll learn the basics of Ruby code style, including proper casing, indentation, and how to use the "Format Document" feature in Visual Studio Code to ensure your Ruby code is clean and consistent.
