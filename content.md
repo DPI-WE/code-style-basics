@@ -49,6 +49,8 @@ MAX_RETRIES = 3
 
 - **File and Folder Names**: Use `snake_case` for naming files and folders. This keeps your file structure consistent with Ruby conventions and makes it easier to navigate your project. Example: `user_profile.rb`, `shopping_cart.rb`.
 
+<!-- break for question -->
+
 - Which casing convention is used for Ruby constants?
 - `snake_case`
   - Not quite. `snake_case` is used for variable and method names.
